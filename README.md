@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm a Software Engineer
-🌱 I’m currently learning Ruby on Rail and other cool stuff !
-🔭 I’m currently working on building the Future
-📫 How to reach me: chipilelearn@gmail.com
+- 🌱 I’m currently learning Ruby on Rail and other cool stuff !
+- 🔭 I’m currently working on building the Future
+- 📫 How to reach me: chipilelearn@gmail.com
 
 <!--
 **sampchamps/sampchamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
