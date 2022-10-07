@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm a Software Engineer
-- 🌱 I’m currently learning Ruby on Rail and other cool stuff !
+I'm a Software Engineer with background in Python(Django Framework - Web)
+- 🌱 I’m currently learning Ruby on Rail, React , Type and other cool stuff !
 - 🔭 I’m currently working on building the Future
 - 📫 How to reach me: chipilelearn@gmail.com
 
