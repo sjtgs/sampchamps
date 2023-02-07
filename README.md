@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm a Software Engineer with background in Python(Django Framework - Web)
+I'm a Software Engineer with background in Python(Django Framework - Web).
+
 As a software developer with 4-5 years of experience, I am skilled in website
  (both the front end and backend), in building web systems and have a track record of delivering high-quality code on time. My experience includes working on web systems where I have honed my skills in backend development.
 - 🌱 I’m currently learning Ruby on Rail, React , Type and other cool stuff !
